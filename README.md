@@ -4,6 +4,8 @@
 Immich Albums is a tool designed to create albums in Immich from a folder structure. 
 Assets needs to be loaded as external library in Immich then you can launch script to create albums.
 
+Just a test
+
 ## Getting Started
 ### Prerequisites
 - Immich instance running
